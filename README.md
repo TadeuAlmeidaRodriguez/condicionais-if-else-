@@ -1,0 +1,1 @@
+Estamos galgando passo à passo. Neste projeto, estou usando as condicionais if/else, e juntando todo o conhecimento até agora adquirido. Condicionais tem um fator importante em programação, ela lhe oferece opções a serem escolhidas, daqui em diante, pode-se criar opções como saques de bancários, ou até a escolha de produtos em uma empresa.
